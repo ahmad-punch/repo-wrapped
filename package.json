@@ -1,0 +1,53 @@
+{
+  "name": "repo-wrapped",
+  "version": "0.1.0",
+  "description": "Spotify Wrapped for any git repository. Offline, from git log alone.",
+  "keywords": [
+    "git",
+    "cli",
+    "stats",
+    "wrapped",
+    "commits",
+    "developer"
+  ],
+  "author": "Ahmad Salman Khan <ahmadsalman137@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmad-punch/repo-wrapped.git"
+  },
+  "type": "module",
+  "bin": {
+    "repo-wrapped": "dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "packageManager": "pnpm@11.4.0",
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint . && tsc --noEmit",
+    "test": "vitest run",
+    "prepublishOnly": "pnpm build"
+  },
+  "dependencies": {
+    "commander": "^15.0.0",
+    "picocolors": "^1.1.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^26.6.5",
+    "eslint": "^10.13.0",
+    "tsup": "^9.0.0",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.72.0",
+    "vitest": "^5.0.5"
+  }
+}
