@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="AMPAM-ProjectTrack wrapped 2026: 1,091 commits across 85 active days, an 11-day best streak, mostly TypeScript, mostly after dark.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="InterviewAI wrapped 2026: 47 commits across 4 active days, a 1-day best streak, mostly TypeScript, mostly before breakfast.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#140b2e"/>
@@ -15,54 +15,54 @@
   <circle cx="1150" cy="250" r="90" fill="#22d3ee" fill-opacity="0.14"/>
   <g font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#ffffff">
   <text x="64" y="92" font-size="22" font-weight="700" letter-spacing="4" fill="#f9a8d4">REPO WRAPPED · 2026</text>
-  <text x="64" y="152" font-size="54" font-weight="800">AMPAM-ProjectTrack</text>
-  <text x="64" y="192" font-size="22" fill-opacity="0.75">HEAD · 2026-06-26 → 2026-10-27</text>
+  <text x="64" y="152" font-size="54" font-weight="800">InterviewAI</text>
+  <text x="64" y="192" font-size="22" fill-opacity="0.75">HEAD · 2026-10-04 → 2026-10-21</text>
   <rect x="64" y="236" width="250" height="128" rx="22" fill="#ffffff" fill-opacity="0.1"/>
-  <text x="88" y="310" font-size="56" font-weight="800">1,091</text>
+  <text x="88" y="310" font-size="56" font-weight="800">47</text>
   <text x="88" y="344" font-size="20" fill-opacity="0.75">commits</text>
   <rect x="338" y="236" width="250" height="128" rx="22" fill="#ffffff" fill-opacity="0.1"/>
-  <text x="362" y="310" font-size="56" font-weight="800">85</text>
+  <text x="362" y="310" font-size="56" font-weight="800">4</text>
   <text x="362" y="344" font-size="20" fill-opacity="0.75">active days</text>
   <rect x="612" y="236" width="250" height="128" rx="22" fill="#ffffff" fill-opacity="0.1"/>
-  <text x="636" y="310" font-size="56" font-weight="800">11</text>
+  <text x="636" y="310" font-size="56" font-weight="800">1</text>
   <text x="636" y="344" font-size="20" fill-opacity="0.75">day best streak</text>
   <rect x="886" y="236" width="250" height="128" rx="22" fill="#ffffff" fill-opacity="0.1"/>
   <text x="910" y="310" font-size="38" font-weight="800">TypeScript</text>
   <text x="910" y="344" font-size="20" fill-opacity="0.75">top language</text>
   <text x="64" y="408" font-size="18" font-weight="700" letter-spacing="3" fill-opacity="0.75">YOUR HOUR</text>
-  <rect x="64" y="491" width="17" height="49" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="89" y="471" width="17" height="69" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="114" y="440" width="17" height="100" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="139" y="458" width="17" height="82" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="164" y="472" width="17" height="68" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="189" y="510" width="17" height="30" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="214" y="495" width="17" height="45" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="239" y="485" width="17" height="55" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="264" y="526" width="17" height="14" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="289" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="314" y="533" width="17" height="7" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="339" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="364" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
-  <rect x="389" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="414" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="439" y="527" width="17" height="13" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="64" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="89" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="114" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="139" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="164" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="189" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="214" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="239" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="264" y="473" width="17" height="67" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="289" y="479" width="17" height="61" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="314" y="424" width="17" height="116" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="339" y="509" width="17" height="31" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="364" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="389" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="414" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="439" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
   <rect x="464" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="489" y="532" width="17" height="8" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="514" y="534" width="17" height="6" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="539" y="524" width="17" height="16" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="564" y="424" width="17" height="116" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="589" y="465" width="17" height="75" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="614" y="432" width="17" height="108" rx="4" fill="url(#bar)" fill-opacity="1"/>
-  <rect x="639" y="461" width="17" height="79" rx="4" fill="url(#bar)" fill-opacity="1"/>
+  <rect x="489" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="514" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="539" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="564" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="589" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="614" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
+  <rect x="639" y="536" width="17" height="4" rx="4" fill="url(#bar)" fill-opacity="0.3"/>
   <text x="64" y="568" font-size="16" fill-opacity="0.6">00</text>
   <text x="214" y="568" font-size="16" fill-opacity="0.6">06</text>
   <text x="364" y="568" font-size="16" fill-opacity="0.6">12</text>
   <text x="514" y="568" font-size="16" fill-opacity="0.6">18</text>
   <text x="639" y="568" font-size="16" fill-opacity="0.6">23</text>
   <text x="720" y="408" font-size="18" font-weight="700" letter-spacing="3" fill-opacity="0.75">CODING PERSONALITY</text>
-  <text x="720" y="462" font-size="46" font-weight="800">The Midnight</text>
+  <text x="720" y="462" font-size="46" font-weight="800">The Sunrise</text>
   <text x="720" y="516" font-size="46" font-weight="800" fill="#a3e635">Architect</text>
-  <text x="720" y="556" font-size="22" fill-opacity="0.85">Night owl · peak 20:00 · Tue</text>
-  <text x="64" y="606" font-size="18" fill-opacity="0.65">1,091 commits across 85 active days, an 11-day best streak, mostly TypeScript, mostly after dark.</text>
+  <text x="720" y="556" font-size="22" fill-opacity="0.85">Early bird · peak 10:00 · Wed</text>
+  <text x="64" y="606" font-size="18" fill-opacity="0.65">47 commits across 4 active days, a 1-day best streak, mostly TypeScript, mostly before breakfast.</text>
   </g>
 </svg>

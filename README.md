@@ -9,74 +9,63 @@ Spotify Wrapped for any git repository: your streaks, hours, files, habits and c
 
 ## Demo
 
-A real run on a four-month TypeScript project (1,091 commits), excerpted. It took about half a second.
+A real run on [InterviewsInAIEra](https://github.com/ahmad-punch/InterviewsInAIEra), a small TypeScript project, excerpted. It took well under a second.
 
 ```text
-$ repo-wrapped ~/code/AMPAM-ProjectTrack --author Ahmad
+$ repo-wrapped ~/code/InterviewAI --author Ahmad
 ╭─ REPO WRAPPED 2026 ──────────────────────────────────────────╮
 │                                                              │
-│ AMPAM-ProjectTrack                                           │
+│ InterviewAI                                                  │
 │ branch HEAD · commits by Ahmad                               │
 │                                                              │
-│     1,091  commits                                           │
-│        85  active days                                       │
-│     1,334  files touched                                     │
-│  +288,711  lines added                                       │
-│   -37,011  lines deleted                                     │
+│        47  commits                                           │
+│         4  active days                                       │
+│       638  files touched                                     │
+│   +36,459  lines added                                       │
+│      -655  lines deleted                                     │
 │                                                              │
-│ First commit  2026-06-26                                     │
-│ Last commit   2026-10-27                                     │
+│ First commit  2026-10-04                                     │
+│ Last commit   2026-10-21                                     │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+
+╭─ STREAKS ────────────────────────────────────────────────────╮
+│                                                              │
+│ Longest streak                                               │
+│ 1 day in a row  2026-10-04 → 2026-10-04                      │
+│                                                              │
+│ Longest break                                                │
+│ 7 days off  2026-10-04 → 2026-10-12                          │
+│                                                              │
+│ Force-of-nature day                                          │
+│ 33 commits on 2026-10-14                                     │
+│                                                              │
+│ Merges 0  ·  Reverts 0                                       │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 
 ╭─ YOUR HOUR ──────────────────────────────────────────────────╮
 │                                                              │
-│ ▄▄▅▅▇▇▆▆▅▅▃▃▄▄▄▄▁▁▁▁▁▁▁▁··▁▁▁▁▁▁▁▁▁▁▁▁▂▂██▆▆██▆▆             │
+│ ················▅▅▅▅██▃▃▁▁······▁▁··············             │
 │ 00          06          12          18        23             │
 │                                                              │
-│ Mon  █████████████████                                 111   │
-│ Tue  ████████████████████████████████████████████████  310   │
-│ Wed  ██████████████████████████████                    195   │
-│ Thu  ███████████████████████████████████               223   │
-│ Fri  █████████████████████████████                     188   │
-│ Sat  ████████                                           53   │
-│ Sun  ██                                                 11   │
+│ Mon  ██                                                  2   │
+│ Tue                                                      0   │
+│ Wed  ████████████████████████████████████████████████   42   │
+│ Thu                                                      0   │
+│ Fri                                                      0   │
+│ Sat                                                      0   │
+│ Sun  ███                                                 3   │
 │                                                              │
-│ Night owl  peak 20:00 · Tue                                  │
-│ 58% of your commits landed between 22:00 and 05:00.          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-╭─ COMMIT MESSAGES ────────────────────────────────────────────╮
-│                                                              │
-│ Average subject 78.5 chars                                   │
-│ Conventional commits 100%                                    │
-│ feat 421, fix 265, docs 132, perf 32                         │
-│                                                              │
-│ Your vocabulary                                              │
-│ job ×696 admin ×497 fpr ×488 phase ×415 labor ×346           │
-│                                                              │
-│ Confessions                                                  │
-│ wip 1  ·  typo 0  ·  oops 0                                  │
-│ A handful of oopsies. Proof a human was here.                │
-│ ...                                                          │
-╰──────────────────────────────────────────────────────────────╯
-
-╭─ YOUR 2026 IN ONE LINE ──────────────────────────────────────╮
-│                                                              │
-│ 1,091 commits across 85 active days, an 11-day best streak,  │
-│ mostly TypeScript, mostly after dark.                        │
-│                                                              │
-│ Your coding personality                                      │
-│ The Midnight Architect                                       │
-│ Night owl; big additive commits (avg 359 lines)              │
+│ Early bird  peak 10:00 · Wed                                 │
+│ 23% of your commits landed between 05:00 and 09:00.          │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
 
-The same run with `--svg wrapped.svg` produces a 1200x630 card for sharing:
+Full output continues with top files, biggest commits, co-authors and a closing one-liner. The same run exported as a share card with `--svg`:
 
-![repo-wrapped SVG card](docs/demo.svg)
+![repo-wrapped share card](docs/demo.svg)
 
 ## Why
 
